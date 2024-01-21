@@ -1,15 +1,15 @@
 [![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://ManishKumar199.io)
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+<h3 align="center">A passionate Front End Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishkumar199&label=Profile%20views&color=0e75b6&style=flat" alt="manishkumar199" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **DSA in Java, React & Node.Js**
+- 🌱 I’m currently learning **Full Stack Development**
 
-- 💬 Ask me about **Java Programming**
+- 💬 Ask me about **Front-End Development**
 
 - 📫 How to reach me **manishkumarms1999@gmail.com**
 
